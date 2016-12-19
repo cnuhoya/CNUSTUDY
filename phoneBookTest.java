@@ -21,7 +21,7 @@ public class phoneBookTest {
 		System.out.println("3: update");
 		System.out.println("4: print");
 		System.out.println("1~4번만 선택");		
-		System.out.print("원하는 작업을 고르세요: ");
+		System.out.print("선택한번호는:  ");
 		input = scanner.nextInt();
 		scanner.nextLine();
 
